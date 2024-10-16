@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fatinnajihah710
+- 👀 I’m interested in do programming...
+- 🌱 I’m currently learning programming so i hope i can learn a lot ...
+- ⚡ Fun fact: i like spicy food, i like challenging work thats why t try to learn programming...
+
+<!---
+fatinnajihah710/fatinnajihah710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
